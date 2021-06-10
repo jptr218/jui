@@ -1,2 +1,1 @@
-# jui
-A beginner's UI library
+brb while i actually write documentation for this
