@@ -1,7 +1,8 @@
 # Drawing rectangles
 
-[next](https://google.com)
-[previous](https://google.com)
+[Next](https://google.com)
+#
+[Previous](https://google.com)
 
 If you've followed the previous chapter, you should have a blank window. Since blank windows are boring, let's add some life to it. We can start by adding the following line before the `deploy()` function is called:
 ```
