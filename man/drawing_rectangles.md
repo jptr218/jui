@@ -1,6 +1,6 @@
 # Drawing rectangles
 
-[Next](https://google.com)
+[Next](https://github.com/jptr218/jui/blob/main/man/input.md)
 ###
 [Previous](https://github.com/jptr218/jui/blob/main/man/getting_started.md)
 
