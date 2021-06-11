@@ -1,6 +1,6 @@
 # Getting started
 
-[Next](https://github.com/jptr218/jui/blob/main/man/drawing_rectangles.md)
+[Next](https://github.com/jptr218/jui/blob/main/man/text.md)
 
 In order to create your first ever JUI application, you will need to set the correct Visual Studio c++ paths. To do this, **right click on your project, select properties -> VC++ directories, and set the include path and the library path to the folder extracted from the ZIP**.
 
@@ -25,4 +25,4 @@ The full usage for the `jui_window` class constructor:
 jui_window(const char* wname, int wtype, RECT wrect, COLORREF bg, HICON icon, HCURSOR cursor);
 ```
 
-Asuming you've setup the library correctly, you should get a new blank window appear on your screen. Next chapter, we will start drawing onto it.
+Asuming you've setup the library correctly, you should get a new blank window appear on your screen. Next chapter, we will start adding content to it.
