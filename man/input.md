@@ -1,6 +1,6 @@
 # Getting input
 
-[Next](https://google.com)
+[Next](https://github.com/jptr218/jui/blob/main/man/images.md)
 ###
 [Previous](https://github.com/jptr218/jui/blob/main/man/drawing_rectangles.md)
 
