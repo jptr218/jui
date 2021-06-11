@@ -4,7 +4,7 @@
 ###
 [Previous](https://github.com/jptr218/jui/blob/main/man/text.md)
 
-Since a window with just text is boring, let's add some life to it. We can start by adding the following line before the `deploy()` function is called:
+Since a window with just text is also boring, let's add some color to it. We can start by adding the following line before the `deploy()` function is called:
 ```
 w.strokeRect(20, 20, 100, 100, jui_color(40, 200, 200));    //Draw a rectangle
 ```
