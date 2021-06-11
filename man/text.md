@@ -1,6 +1,6 @@
 # Drawing text
 
-[Next](https://github.com/jptr218/jui/blob/main/man/text.md)
+[Next](https://github.com/jptr218/jui/blob/main/man/input.md)
 ###
 [Previous](https://github.com/jptr218/jui/blob/main/man/getting_started.md)
 
@@ -8,4 +8,4 @@ If you've followed the previous chapter, you should have a blank window. Since b
 ```
 w.text("My text", 20, 20, 30, "Arial");                          //Draw text
 ```
-In the next chapter, we will be adding text to our window.
+In the next chapter, we will start drawing shapes to the window.
