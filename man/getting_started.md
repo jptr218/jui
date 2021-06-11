@@ -25,4 +25,4 @@ The full usage for the `jui_window` class constructor:
 jui_window(const char* wname, int wtype, RECT wrect, COLORREF bg, HICON icon, HCURSOR cursor);
 ```
 
-Asuming you've setup the library correctly, you should get a new blank window appear on your screen. Next tutorial, we will start drawing onto it.
+Asuming you've setup the library correctly, you should get a new blank window appear on your screen. Next chapter, we will start drawing onto it.
