@@ -1,6 +1,6 @@
 # Drawing text
 
-[Next](https://github.com/jptr218/jui/blob/main/man/input.md)
+[Next](https://github.com/jptr218/jui/blob/main/man/drawing_rectangles.md)
 ###
 [Previous](https://github.com/jptr218/jui/blob/main/man/getting_started.md)
 
