@@ -13,3 +13,4 @@ However, you might not want just an out line of a rectangle. Maybe you want a fu
 ```
 w.fillRect(20, 20, 100, 100, jui_color(40, 200, 200));      //Fills a rectangle
 ```
+Next chapter, we will start using JUI's input system.
