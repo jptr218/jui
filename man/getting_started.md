@@ -20,4 +20,9 @@ The code above won't actually do much. In order to get your window to display pr
 ```
 w.deploy();                                 //Deploy window
 ```
+The full usage for the `jui_window` class constructor:
+```
+jui_window(const char* wname, int wtype, RECT wrect, COLORREF bg, HICON icon, HCURSOR cursor);
+```
+
 Asuming you've setup the library correctly, you should get a new blank window appear on your screen. Next tutorial, we will start drawing onto it.
