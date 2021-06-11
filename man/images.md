@@ -1,6 +1,6 @@
 # Drawing images
 
-[Next](https://github.com/jptr218/jui/blob/main/man/extras.md)
+[Next](https://github.com/jptr218/jui/blob/main/man/overview.md)
 ###
 [Previous](https://github.com/jptr218/jui/blob/main/man/input.md)
 
